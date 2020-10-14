@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 import { FlatList, Text, StyleSheet, View } from 'react-native'
 
-import { LinearGradient } from 'expo-linear-gradient';
+import { LinearGradient } from 'react-native-linear-gradient';
 
 const ListItem = React.memo( ({ label, style }) => (
 	<View style={ style }>

@@ -24,6 +24,6 @@
   "homepage": "https://github.com/ninio/react-native-swipe-picker#readme",
   "dependencies": {
     "prop-types": "^15.7.2",
-    "expo-linear-gradient": "^5.0.1"
+    "react-native-linear-gradient": "^2.5.6"
   }
 }
